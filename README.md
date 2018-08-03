@@ -9,5 +9,8 @@ Sample Blog Post
 ![sample-post](https://user-images.githubusercontent.com/42061252/43635868-1c66a6a0-9719-11e8-93d5-c4da699c625b.jpg)
 Sample Blog Comment
 ![sample-comment](https://user-images.githubusercontent.com/42061252/43636019-93324e42-9719-11e8-818a-3c2d8f2534cd.png)
-
+About
+![about-page](https://user-images.githubusercontent.com/42061252/43636124-e124cf58-9719-11e8-9dc0-cf18dde114ba.png)
+User Stories
+![user-stories](https://user-images.githubusercontent.com/42061252/43636203-0e887a3a-971a-11e8-9d4b-1a4790167e16.png)
 
